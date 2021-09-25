@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\Group Challenge\GoogleChallenge\GoogleChallenge\bin\Debug\GoogleChallenge.exe.config
+C:\ElevenFiftyProjects\Group Challenge\GoogleChallenge\GoogleChallenge\bin\Debug\GoogleChallenge.exe
+C:\ElevenFiftyProjects\Group Challenge\GoogleChallenge\GoogleChallenge\bin\Debug\GoogleChallenge.pdb
+C:\ElevenFiftyProjects\Group Challenge\GoogleChallenge\GoogleChallenge\obj\Debug\GoogleChallenge.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\Group Challenge\GoogleChallenge\GoogleChallenge\obj\Debug\GoogleChallenge.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Group Challenge\GoogleChallenge\GoogleChallenge\obj\Debug\GoogleChallenge.exe
+C:\ElevenFiftyProjects\Group Challenge\GoogleChallenge\GoogleChallenge\obj\Debug\GoogleChallenge.pdb
